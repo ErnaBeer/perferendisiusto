@@ -1,0 +1,30 @@
+{
+  "name": "perferendisiusto",
+  "version": "1.0.0",
+  "description": "CLI tool for deploying and managing smart contracts on Ethereum.",
+  "main": "index.js",
+  "bin": {
+    "tokentrendz": "./index.js"
+  },
+  "keywords": [
+    "ethereum",
+    "smart-contract",
+    "deploy",
+    "web3",
+    "blockchain"
+  ],
+  "author": "CordieWill",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^7.2.0",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.4.0",
+    "inquirer": "^8.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ErnaBeer/perferendisiusto.git"
+  },
+  "homepage": "https://github.com/ErnaBeer/perferendisiusto.git"
+}
